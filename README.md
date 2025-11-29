@@ -5,7 +5,7 @@
 ## Overview
 This project implements and compares different deep learning models for image classification on the CIFAR-10 dataset. The repository contains three main notebooks:
 
-1. **Original Implementation**: A baseline model using TensorFlow/Keras  
+1. **DNN Implementation**: A baseline model using TensorFlow/Keras  
 2. **Custom CNN**: A PyTorch implementation of a Convolutional Neural Network  
 3. **ResNet-18**: A PyTorch implementation of the ResNet-18 architecture  
 
@@ -163,4 +163,5 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 - Try advanced data augmentation techniques.  
 - Implement model quantization for deployment.  
 - Create a web demo for real-time classification.
+
 
