@@ -81,8 +81,8 @@ Deep-Learning-Project-CIFAR-10-Image-Classifier/
 ## Installation
 
 1. **Clone the repository**:
-```
 bash
+```
 git clone https://github.com/Rezaul33/Deep-Learning-Project-CIFAR-10-Image-Classifier
 ```
 2. **Create and activate a virtual environment (recommended)**:
@@ -163,5 +163,6 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 - Try advanced data augmentation techniques.  
 - Implement model quantization for deployment.  
 - Create a web demo for real-time classification.
+
 
 
